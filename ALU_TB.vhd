@@ -61,6 +61,7 @@ CONSTANT add_nc : std_logic_vector  := "001";
 CONSTANT xor_8 : std_logic_vector := "010";
 CONSTANT L : std_logic_vector := "011";
 CONSTANT H : std_logic_vector := "100";
+--CONSTANT 
 
 CONSTANT V_op : op := (add,add_nc,xor_8,L,H);
 
